@@ -5,12 +5,11 @@
 
 ## **Main branch for Localhost**
 
-## **Master branch for Deployed **
+## **Master branch for Deployed**
 
-## Deploy live end point
-```base
-https://stayeasy-145k.onrender.com
-```
+## Deployed live end point
+
+## [https://stayeasy-145k.onrender.com/stayease/api/v1](https://stayeasy-145k.onrender.com/stayease/api/v1)
 
 **[Test live End Point](https://stayeasy-145k.onrender.com/stayease/api/v1/home)**
 
