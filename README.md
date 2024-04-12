@@ -3,16 +3,16 @@
 ## Overview
 **This repository contains the source code for a RESTful API designed to manage hotel , built using the Spring Boot Framework.**
 
-**Main branch for Local host**
+## **Main branch for Localhost**
 
-**Master branch for Deploy**
+## **Master branch for Deployed **
 
 ## Deploy live end point
 ```base
 https://stayeasy-145k.onrender.com
 ```
 
-**[test live end point](https://stayeasy-145k.onrender.com/stayease/api/v1/home)**
+**[Test live End Point](https://stayeasy-145k.onrender.com/stayease/api/v1/home)**
 
 
 
